@@ -1,0 +1,9 @@
+- monorepo plugin https://github.com/imNel/monorepo.nvim/
+- easier file making -- neotree keybinds?
+- tab for autocomplete, better binds for moving up down options
+- binds for <c-i>/<c-o>
+- lazygit or similar
+    - right sidebar - display branches + commits from specific branches, display stashes
+    - left sidebar - stage files, see what's changed, write commit messages?, make commits?, publish branches
+    - blame/recent commits on a line, file history?
+    - cherry pick easily (what i use > git log for now)
