@@ -7,6 +7,7 @@
     - left sidebar - stage files, see what's changed, write commit messages?, make commits?, publish branches
     - blame/recent commits on a line, file history?
     - cherry pick easily (what i use > git log for now)
+    - staging hunks in a way that makes sense, seeing diffs both really important
 - sessions / what i use vscode terminal for now
     - restore terminal views? - basically always need 2 terminals + another one to fuck around in, make a window for that and get it saved
         - or look at tmux or something similar, or good keybinds for wezterm to make this make sense 
