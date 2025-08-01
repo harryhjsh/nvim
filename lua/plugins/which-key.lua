@@ -17,6 +17,10 @@ return {
         "<leader>c",
         group = "[c]ode",
       },
+      {
+        "<leader>f",
+        group = "[f]iles",
+      },
     },
   },
 }

@@ -11,7 +11,7 @@ return {
     },
     lazy = false,
     keys = {
-      { "<leader>gt", ":Neotree reveal float<CR>", desc = "[t]ree", silent = true },
+      { "<leader>ft", ":Neotree reveal float<CR>", desc = "[t]ree", silent = true },
     },
     opts = {},
   },
