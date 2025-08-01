@@ -22,3 +22,5 @@
 
 - terminal tools for the stuff i have vscode extensions for that it shouldn't really do (sqlite viewer/editor, catch test viewer)
 - codesnap?
+
+- snippets
