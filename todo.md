@@ -24,3 +24,12 @@
 - codesnap?
 
 - snippets
+
+- function signature documentation
+- ctrl+space to toggle object properties autocomplete
+- import extensions (ts) 
+- biome fixall action/bind
+- onsave action?????
+- find files including gitignored (dist/config.json)
+- show import path in suggestions
+

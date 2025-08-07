@@ -21,6 +21,11 @@ return {
         "<leader>f",
         group = "[f]iles",
       },
+      {
+        "<leader>gg",
+        "<cmd>b#<cr>",
+        desc = "previous buffer",
+      },
     },
   },
 }

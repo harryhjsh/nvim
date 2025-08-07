@@ -14,11 +14,7 @@ return {
       { "nvim-telescope/telescope-ui-select.nvim" },
       { "nvim-tree/nvim-web-devicons" },
       {
-        dir = "C:/dev/github/telescope-autoscope",
-        name = "telescope-autoscope.nvim",
-        config = function()
-          require("autoscope").setup()
-        end,
+        "harryhjsh/autoscope.nvim",
       },
     },
     keys = {
