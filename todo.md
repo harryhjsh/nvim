@@ -17,6 +17,7 @@
 - status bar
      - ts version, active formatter, active tsconfig?
      - git status
+     - open buffers + with unsaved changes
 
 - poimandres storm theme (probably need to make it)
 
@@ -26,10 +27,16 @@
 - snippets
 
 - function signature documentation
-- ctrl+space to toggle object properties autocomplete
+- ctrl+space to toggle object properties autocomplete, some way of toggling function definition in insert mode
 - import extensions (ts) 
 - biome fixall action/bind
 - onsave action?????
 - find files including gitignored (dist/config.json)
 - show import path in suggestions
+- trouble -  open code actions from trouble pane
+- trouble - refocus trouble without toggling
+- telescope - buffers + buffer deletion
+- buffer deletion keybind?
+- prompts - popup instead of bottom line of window
+
 

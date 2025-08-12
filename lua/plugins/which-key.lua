@@ -22,9 +22,23 @@ return {
         group = "[f]iles",
       },
       {
-        "<leader>gg",
+        "<leader>b",
+        group = "[b]uffers",
+      },
+      {
+        "<leader>bb",
         "<cmd>b#<cr>",
-        desc = "previous buffer",
+        desc = "previous [b]uffer",
+      },
+      {
+        "<leader>ba",
+        "<cmd>Telescope buffers<cr>",
+        desc = "[a]ll buffers",
+      },
+      {
+        "<leader>bd",
+        "<cmd>bd<cr>",
+        desc = "[d]elete buffer",
       },
     },
   },
